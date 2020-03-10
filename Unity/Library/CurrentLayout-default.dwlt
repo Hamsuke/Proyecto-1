@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1037
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 442}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 2104
+  controlID: 135
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 2012
+  controlID: 21
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 2105
+  controlID: 90
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,8 +238,8 @@ MonoBehaviour:
     y: 0
     width: 1126
     height: 766
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -266,8 +266,8 @@ MonoBehaviour:
     y: 766
     width: 1126
     height: 221
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 342}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 2133
+  controlID: 136
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -470,9 +470,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 12fbffff
+      m_SelectedIDs: 6c350000
+      m_LastClickedID: 13676
+      m_ExpandedIDs: 70f9ffff86f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -613,9 +613,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -12.920742, y: 2.138177, z: -2.4323413}
+    m_Target: {x: 53.5398, y: -2.532048, z: -79.32713}
     speed: 2
-    m_Value: {x: -12.920742, y: 2.138177, z: -2.4323413}
+    m_Value: {x: 53.656765, y: -2.355172, z: -79.254456}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -665,9 +665,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 18.091549
+    m_Target: 16.872707
     speed: 2
-    m_Value: 18.091549
+    m_Value: 16.146132
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -718,8 +718,8 @@ MonoBehaviour:
     height: 745
   m_ViewDataDictionary: {fileID: 0}
   m_ResetOnNextRepaint: 0
-  m_SelectedAssetPath: Assets/Graphics/Sara.png
-  m_SelectedSpriteRectGUID: 2ccdb933d1d8a0044a506669a44a55c1
+  m_SelectedAssetPath: Assets/Graphics/Maps/Laberinto3.3.png
+  m_SelectedSpriteRectGUID: 5e97eb03825dee720800000000000000
   m_LastUsedModuleTypeName: UnityEditor.U2D.Sprites.SpriteOutlineModule
 --- !u!114 &20
 MonoBehaviour:
@@ -890,9 +890,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80350000
-    m_LastClickedID: 13696
-    m_ExpandedIDs: 000000006035000062350000ffffff7f
+    m_SelectedIDs: 60360000
+    m_LastClickedID: 13920
+    m_ExpandedIDs: 0000000042360000443600004836000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -920,7 +920,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006035000062350000
+    m_ExpandedIDs: 000000004236000044360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
